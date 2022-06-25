@@ -1,2 +1,2 @@
 # ML_Foundation
-program of the ML foundation open source
+program of the ML foundation open course
